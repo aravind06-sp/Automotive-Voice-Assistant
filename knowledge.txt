@@ -1,0 +1,11 @@
+OVERHEAT: low coolant, radiator blockage, fan failure, thermostat stuck
+
+MISFIRE: worn spark plugs, injector fault, low compression
+
+BATTERY: old battery, alternator failure, loose terminals
+
+BRAKES: worn pads, damaged rotors, lack of lubrication
+
+LOW_FUEL_EFFICIENCY: clogged air filter, bad spark plugs, low tire pressure
+
+ENGINE_NOISE: low oil level, worn bearings, timing issue
