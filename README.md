@@ -50,17 +50,12 @@ README.md
 
 ## Installation
 
-1. Clone the repository
-
-git clone https://github.com/yourusername/AI-Vehicle-CoPilot.git  
-cd AI-Vehicle-CoPilot  
-
-2. Create a virtual environment (optional but recommended)
+1. Create a virtual environment (optional but recommended)
 
 python -m venv venv  
 venv\Scripts\activate  
 
-3. Install required packages
+2. Install required packages
 
 pip install speechrecognition pyttsx3 scikit-learn sentence-transformers faiss-cpu pyaudio  
 
