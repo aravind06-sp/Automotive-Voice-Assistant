@@ -118,6 +118,3 @@ Electrical and Electronics Engineering Student
 
 ---
 
-## License
-
-MIT License
